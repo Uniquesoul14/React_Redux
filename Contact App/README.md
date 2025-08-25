@@ -5,9 +5,9 @@ This project is a **Registration Form** built using **React + Redux Toolkit** wh
 ---
 
 ## 🚀 Features
-- ➕ **Add new user** (Name, Email, Number, Password)
-- ✏️ **Edit existing user** data
-- ❌ **Delete user** from list
+- ➕ **Add new Contact** (Name, Email, Number)
+- ✏️ **Edit existing Contact** data
+- ❌ **Remove Contact** from list
 - 💾 Data stored in **LocalStorage** (persists after reload)
 - 🎨 Modern styled UI with responsive form & data container
 - ⚡ Built using **Redux Toolkit** for state management
@@ -29,11 +29,15 @@ This project is a **Registration Form** built using **React + Redux Toolkit** wh
 
 ---
 
-## 🎥 Project Output (Video)
+<h2>🎥 Demo</h2>
 
-📌 Watch the working demo here 👉 [Click to View Video](https://drive.google.com/file/d/1nZL5zmnjMKihI52n0jzkJEHYPnQYZBvP/view?usp=sharing)
 
----
+https://github.com/user-attachments/assets/e741d722-bacf-4247-a90c-130b59fd3c40
+
+<br>
+
+
+
 
 ## 🔧 Installation & Setup
 1. Clone the repository
